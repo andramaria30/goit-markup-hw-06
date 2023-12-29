@@ -1399,7 +1399,7 @@ img {
 }
 
 
-.input-checkbox:checked + .span-privacy span:first-child {
+.input-checkbox:checked + .name-label-checkbox span:first-child {
 
   border:none;
   fill: var(--text-color-cloud);
