@@ -1241,7 +1241,7 @@ img {
   align-items: center;
   justify-content: center;
   /* fill: transparent; */
-  
+  background-color: #404bbf; 
  
   
   fill: transparent;
@@ -1399,7 +1399,7 @@ img {
 }
 
 
-.input-checkbox:checked + .name-label-checkbox span:first-child {
+.input-checkbox:checked + .span-privacy span:first-child {
 
   border:none;
   fill: var(--text-color-cloud);
