@@ -1399,14 +1399,14 @@ img {
 }
 
 
-.input-checkbox:checked + .span-privacy span:first-child {
+
+.input-checkbox:checked {
 
   border:none;
-  fill: var(--text-color-cloud);
-
-
+  fill: #F4F4FD;
 
 }
+
 
 
 
