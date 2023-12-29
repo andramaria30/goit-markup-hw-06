@@ -1188,7 +1188,7 @@ img {
   padding: 8px 16px;
   outline: transparent;
   resize: none;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 
@@ -1245,6 +1245,7 @@ img {
  
   fill: #F4F4FD;
   fill: transparent;
+  border: none;
   
   
 
